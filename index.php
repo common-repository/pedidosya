@@ -1,0 +1,2 @@
+<?php // Rock & Rolla Manca!
+?>
